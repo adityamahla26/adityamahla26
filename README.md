@@ -19,45 +19,26 @@
 
 ###
 
-<img align="left" height="0" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRkbThjZ2Vvd3lmOHNhb2RidG9vdzJ5Y2YxNXRjenU2ejJ6dDY5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rlg5rDvQp2Mvqp5wqq/giphy.gif"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
-
-###
-
-<img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"  />
-
-###
-
-<img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif"  />
-
-###
-
-<img align="left" height="40" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd3dXVpdmc5YTQ1enpseGVnNmgxbGtoZThwMXJ0NmFxcHJ2dzNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif"  />
-
-###
-
-<img align="left" height="40" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxia2R4NWtkaWJvODRlemluMjR0bjU1aHV6bnpyYmMxMGI3YTU4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif"  />
-
-###
-
-<img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif"  />
-
-###
-
-<img align="left" height="40" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif"  />
-
-###
-
-<img align="left" height="40" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2t3ejBqcWRrcnFpM29ya2h4enk3cm96Y3IyNWIxaDhoMTJoc25rNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
-
-###
-
-<br clear="both">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityamahla26/adityamahla26/refs/heads/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityamahla26/adityamahla26/refs/heads/output/github-snake.svg"/>
