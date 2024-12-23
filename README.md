@@ -38,7 +38,6 @@
 ###
 
 <br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityamahla26/adityamahla26/refs/heads/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityamahla26/adityamahla26/refs/heads/output/github-snake.svg"/>
